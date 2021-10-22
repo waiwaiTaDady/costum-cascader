@@ -3,6 +3,6 @@
 # usage
 cd .........  
 npm i  
-npm install  
+npm run dev    
 # comes from     
 借鉴 => https://github.com/chengquanomg/domain
